@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "718452831860",
+    "firebase_url": "https://cubiconia-6b42d.firebaseio.com",
+    "project_id": "cubiconia-6b42d",
+    "storage_bucket": "cubiconia-6b42d.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:718452831860:android:0072aaaa18716fe73ec321",
+        "android_client_info": {
+          "package_name": "com.citm.siapps.app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "718452831860-hhhkma55aurv7kupjo2degpvict7keqc.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.citm.siapps.app",
+            "certificate_hash": "0d0f8e79ed443336a3e2c609e1b9f038e979d43c"
+          }
+        },
+        {
+          "client_id": "718452831860-2h4hisbk96lb30tebvn33vog7bpusp84.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB278nzA21JVB4EOfJhaMg9s7Jx-J9Ix48"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "718452831860-2h4hisbk96lb30tebvn33vog7bpusp84.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
